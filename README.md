@@ -23,18 +23,26 @@ The app allows users to create, view, edit, and delete tasks, helping them stay 
    - Click on the "Sign Up" or "Create Account" button.
    - You will be registered as a new user.
 
+   <img width="1335" alt="Untitled 4" src="https://github.com/snehSumi/task-management/assets/129269528/77913964-9b9e-4574-8422-06263e5a1073">
+
 2. Log In:
    - Open the app or website.
    - Click on the "Log In" button or link.
    - Enter your email and password.
    - Click on the "Log In" or "Sign In" button.
    - You will be logged into your account.
+   
+   <img width="1335" alt="Untitled 5" src="https://github.com/snehSumi/task-management/assets/129269528/989e5cfb-5032-48fa-b95a-32de93c87a16">
+
 
 3. Dashboard:
    - After logging in, you will be directed to the dashboard.
    - The dashboard provides an overview of your tasks and other relevant information.
    - It may display your name, profile picture, and a welcome message.
    - You can navigate to different sections of the app from the dashboard.
+   
+   <img width="1335" alt="Untitled" src="https://github.com/snehSumi/task-management/assets/129269528/1bc44a20-3f3c-4a8f-9a52-4861450bfd63">
+
 
 4. Create a Task:
    - Look for a button or link to create a new task.
@@ -56,12 +64,18 @@ The app allows users to create, view, edit, and delete tasks, helping them stay 
    - Look for a checkbox or a specific button/icon associated with task completion.
    - Click on the checkbox or the button/icon to mark the task as complete.
    - The task may be visually distinguished or moved to a separate section indicating completion.
+   
+<img width="1335" alt="Untitled 2" src="https://github.com/snehSumi/task-management/assets/129269528/5e06813e-d281-425f-9a9c-0275a4d2f73c">
+   
 
 8. Delete a Task:
    - Locate the task you want to delete in the task list.
    - Find a delete or remove option, usually represented by a trash bin icon or a "Delete" button.
    - Click on the delete option to remove the task.
    - Confirm the deletion if prompted.
+   
+<img width="1335" alt="Untitled 3" src="https://github.com/snehSumi/task-management/assets/129269528/67705efc-6418-47d2-8d2d-a1e8df6ce419">
+
 
 #Contributing
 
